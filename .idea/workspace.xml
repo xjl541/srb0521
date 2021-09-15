@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f8714ee-7a72-44b0-be32-7bcaa3b5dc00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/base-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guigu-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/config/MyMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/service/impl/UserServcieImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/test/java/com/atguigu/mybatisplus/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/test/java/com/atguigu/mybatisplus/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\javase\workspace\srb0521\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/tools/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=GB2312" />
+  </component>
+  <component name="ProjectId" id="1y73HJkhB6lO0SGtIRrIUThGPYN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu.mybatisplus" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test2.test1">
+    <configuration name="Test2.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.mybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.mybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.Test2" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.mybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.mybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.Test2" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.mybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.mybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.Test2" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.mybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.mybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.Test2" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.mybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.mybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.Test2" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test2.test1" />
+        <item itemvalue="JUnit.Test2.test6" />
+        <item itemvalue="JUnit.Test2.test5" />
+        <item itemvalue="JUnit.Test2.test4" />
+        <item itemvalue="JUnit.Test2.test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f8714ee-7a72-44b0-be32-7bcaa3b5dc00" name="Default Changelist" comment="" />
+      <created>1631588710011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631588710011</updated>
+      <workItem from="1631588712983" duration="15209000" />
+      <workItem from="1631671165540" duration="431000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="986" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1631624510081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="986" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1631624510081" />
+    <state x="566" y="432" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1631613810175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="566" y="432" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631613810175" />
+    <state x="840" y="379" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1631613811302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="840" y="379" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1631613811302" />
+    <state x="1083" y="151" key="FileChooserDialogImpl" timestamp="1631600011719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1083" y="151" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1631600011719" />
+    <state width="1257" height="504" key="GridCell.Tab.0.bottom" timestamp="1631624750186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1257" height="504" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631624750186" />
+    <state width="1257" height="504" key="GridCell.Tab.0.center" timestamp="1631624750186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1257" height="504" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631624750186" />
+    <state width="1257" height="504" key="GridCell.Tab.0.left" timestamp="1631624750186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1257" height="504" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631624750186" />
+    <state width="1257" height="504" key="GridCell.Tab.0.right" timestamp="1631624750186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1257" height="504" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631624750186" />
+    <state width="1282" height="539" key="GridCell.Tab.1.bottom" timestamp="1631624737717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1282" height="539" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631624737717" />
+    <state width="1282" height="539" key="GridCell.Tab.1.center" timestamp="1631624737717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1282" height="539" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631624737717" />
+    <state width="1282" height="539" key="GridCell.Tab.1.left" timestamp="1631624737717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1282" height="539" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631624737717" />
+    <state width="1282" height="539" key="GridCell.Tab.1.right" timestamp="1631624737717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1282" height="539" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631624737717" />
+    <state width="1362" height="420" key="GridCell.Tab.2.bottom" timestamp="1631618115401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="420" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631618115401" />
+    <state width="1362" height="420" key="GridCell.Tab.2.center" timestamp="1631618115401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="420" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631618115401" />
+    <state width="1362" height="420" key="GridCell.Tab.2.left" timestamp="1631618115401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="420" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631618115401" />
+    <state width="1362" height="420" key="GridCell.Tab.2.right" timestamp="1631618115401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="420" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631618115401" />
+    <state x="583" y="148" key="NewModule_or_Project.wizard" timestamp="1631589148581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="148" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1631589148581" />
+    <state x="573" y="79" key="SettingsEditor" timestamp="1631618736331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="573" y="79" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631618736331" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1631671166503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631671166503" />
+    <state x="314" y="132" key="new project wizard" timestamp="1631600720097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="314" y="132" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1631600720097" />
+    <state x="797" y="240" key="run.anything.popup" timestamp="1631624571077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="797" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631624571077" />
+  </component>
+</project>

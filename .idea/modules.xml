@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base-service/base-service.iml" filepath="$PROJECT_DIR$/base-service/base-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guigu-common/guigu-common.iml" filepath="$PROJECT_DIR$/guigu-common/guigu-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus/mybatis-plus.iml" filepath="$PROJECT_DIR$/mybatis-plus/mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srb-0521.iml" filepath="$PROJECT_DIR$/srb-0521.iml" />
+    </modules>
+  </component>
+</project>
