@@ -11,4 +11,10 @@
         <include refid="Base_Column_List"></include>
         from user where name like '%${name}%'
     </select>
+
+    <select id="selectPageByPage" resultType="com.atguigu.mybatisplus.entity.User">
+        select
+        *
+        from user where age > #{age}
+    </select>
 </mapper>

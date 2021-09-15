@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f8714ee-7a72-44b0-be32-7bcaa3b5dc00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/base-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guigu-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/config/MyMetaObjectHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/service/impl/UserServcieImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/test/java/com/atguigu/mybatisplus/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/test/java/com/atguigu/mybatisplus/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="1f8714ee-7a72-44b0-be32-7bcaa3b5dc00" name="Default Changelist" comment="mybatispuls插件">
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/mapper/ProductMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/test/java/com/atguigu/mybatisplus/TestPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/test/java/com/atguigu/mybatisplus/TestVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/src/test/java/com/atguigu/mybatisplus/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus/src/test/java/com/atguigu/mybatisplus/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/test-classes/com/atguigu/mybatisplus/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus/target/test-classes/com/atguigu/mybatisplus/Test2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -84,7 +86,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -92,7 +94,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Test2.test1">
+  <component name="RunManager" selected="JUnit.TestVersion.test1">
     <configuration name="Test2.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis-plus" />
       <extension name="coverage">
@@ -109,7 +111,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test2.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis-plus" />
       <extension name="coverage">
         <pattern>
@@ -119,13 +121,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.atguigu.mybatisplus" />
       <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.Test2" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="METHOD_NAME" value="test7" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPage.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis-plus" />
       <extension name="coverage">
         <pattern>
@@ -134,14 +136,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.atguigu.mybatisplus" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.Test2" />
-      <option name="METHOD_NAME" value="test4" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.TestPage" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPage.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis-plus" />
       <extension name="coverage">
         <pattern>
@@ -150,14 +152,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.atguigu.mybatisplus" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.Test2" />
-      <option name="METHOD_NAME" value="test5" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.TestPage" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestVersion.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis-plus" />
       <extension name="coverage">
         <pattern>
@@ -166,8 +168,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.atguigu.mybatisplus" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.Test2" />
-      <option name="METHOD_NAME" value="test6" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.TestVersion" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -175,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestVersion.test1" />
+        <item itemvalue="JUnit.TestPage.test2" />
+        <item itemvalue="JUnit.TestPage.test1" />
+        <item itemvalue="JUnit.Test2.test7" />
         <item itemvalue="JUnit.Test2.test1" />
-        <item itemvalue="JUnit.Test2.test6" />
-        <item itemvalue="JUnit.Test2.test5" />
-        <item itemvalue="JUnit.Test2.test4" />
-        <item itemvalue="JUnit.Test2.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -206,12 +208,24 @@
       <option name="presentableId" value="Default" />
       <updated>1631588710011</updated>
       <workItem from="1631588712983" duration="15209000" />
-      <workItem from="1631671165540" duration="431000" />
+      <workItem from="1631671165540" duration="5610000" />
     </task>
+    <task id="LOCAL-00001" summary="mybatispuls插件">
+      <created>1631671676896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631671676896</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mybatispuls插件" />
+    <option name="LAST_COMMIT_MESSAGE" value="mybatispuls插件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="986" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1631624510081">
@@ -226,42 +240,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="840" y="379" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1631613811302" />
-    <state x="1083" y="151" key="FileChooserDialogImpl" timestamp="1631600011719">
+    <state x="549" y="40" key="CommitChangelistDialog2" timestamp="1631688789132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1083" y="151" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1631600011719" />
-    <state width="1257" height="504" key="GridCell.Tab.0.bottom" timestamp="1631624750186">
+    <state x="549" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1631688789132" />
+    <state x="1083" y="151" key="FileChooserDialogImpl" timestamp="1631672257507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1257" height="504" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631624750186" />
-    <state width="1257" height="504" key="GridCell.Tab.0.center" timestamp="1631624750186">
+    <state x="1083" y="151" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1631672257507" />
+    <state width="1282" height="522" key="GridCell.Tab.0.bottom" timestamp="1631689386118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1257" height="504" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631624750186" />
-    <state width="1257" height="504" key="GridCell.Tab.0.left" timestamp="1631624750186">
+    <state width="1282" height="522" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631689386118" />
+    <state width="1282" height="522" key="GridCell.Tab.0.center" timestamp="1631689386118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1257" height="504" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631624750186" />
-    <state width="1257" height="504" key="GridCell.Tab.0.right" timestamp="1631624750186">
+    <state width="1282" height="522" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631689386118" />
+    <state width="1282" height="522" key="GridCell.Tab.0.left" timestamp="1631689386118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1257" height="504" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631624750186" />
-    <state width="1282" height="539" key="GridCell.Tab.1.bottom" timestamp="1631624737717">
+    <state width="1282" height="522" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631689386118" />
+    <state width="1282" height="522" key="GridCell.Tab.0.right" timestamp="1631689386118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1282" height="539" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631624737717" />
-    <state width="1282" height="539" key="GridCell.Tab.1.center" timestamp="1631624737717">
+    <state width="1282" height="522" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631689386118" />
+    <state width="1282" height="522" key="GridCell.Tab.1.bottom" timestamp="1631689386118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1282" height="539" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631624737717" />
-    <state width="1282" height="539" key="GridCell.Tab.1.left" timestamp="1631624737717">
+    <state width="1282" height="522" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631689386118" />
+    <state width="1282" height="522" key="GridCell.Tab.1.center" timestamp="1631689386118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1282" height="539" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631624737717" />
-    <state width="1282" height="539" key="GridCell.Tab.1.right" timestamp="1631624737717">
+    <state width="1282" height="522" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631689386118" />
+    <state width="1282" height="522" key="GridCell.Tab.1.left" timestamp="1631689386118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1282" height="539" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631624737717" />
+    <state width="1282" height="522" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631689386118" />
+    <state width="1282" height="522" key="GridCell.Tab.1.right" timestamp="1631689386118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1282" height="522" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631689386118" />
     <state width="1362" height="420" key="GridCell.Tab.2.bottom" timestamp="1631618115401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -282,10 +300,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="583" y="148" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1631589148581" />
-    <state x="573" y="79" key="SettingsEditor" timestamp="1631618736331">
+    <state x="573" y="79" key="SettingsEditor" timestamp="1631672333145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="573" y="79" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631618736331" />
+    <state x="573" y="79" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631672333145" />
+    <state x="611" y="190" key="Vcs.Push.Dialog.v2" timestamp="1631672343651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="611" y="190" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1631672343651" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1631671166503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

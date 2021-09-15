@@ -71,4 +71,9 @@ public class Test2 {
         List<User> users = userService.selectAllBuName(name);
         System.out.println(users);
     }
+    @Test
+    public void test7(){
+        boolean b = userService.removeById(11l);
+        System.out.println(b);
+    }
 }
