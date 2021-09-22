@@ -1,8 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f8714ee-7a72-44b0-be32-7bcaa3b5dc00" name="Default Changelist" comment="创建基本工程，创建统一异常和返回结果等">
+    <list default="true" id="1f8714ee-7a72-44b0-be32-7bcaa3b5dc00" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base-service/target/classes/com/atguigu/srb/base/config/Swagger2Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guigu-common/target/classes/com/atguigu/srb/common/exception/UnifiedExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guigu-common/target/classes/com/atguigu/srb/common/result/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guigu-common/target/classes/com/atguigu/srb/common/result/ResponseEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/config/MyMetaObjectHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/config/MybatisPlusConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/entity/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/mapper/ProductMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/service/impl/UserServcieImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/test-classes/com/atguigu/mybatisplus/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/test-classes/com/atguigu/mybatisplus/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/test-classes/com/atguigu/mybatisplus/TestPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/test-classes/com/atguigu/mybatisplus/TestVersion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/test-classes/com/atguigu/mybatisplus/TestWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/config/MyMetaObjectHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/config/MybatisPlusConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/BorrowInfoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/BorrowerAttachController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/BorrowerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/DictController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/IntegralGradeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/LendController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/LendItemController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/LendItemReturnController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/LendReturnController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/TransFlowController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/UserAccountController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/UserBindController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/UserInfoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/UserIntegralController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/UserLoginRecordController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/controller/admin/AdminIntegralGradeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/BorrowInfoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/BorrowerAttachMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/BorrowerMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/DictMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/IntegralGradeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/LendItemMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/LendItemReturnMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/LendMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/LendReturnMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/TransFlowMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/UserAccountMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/UserBindMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/UserInfoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/UserIntegralMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/mapper/UserLoginRecordMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/BorrowInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/Borrower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/BorrowerAttach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/Dict.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/IntegralGrade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/Lend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/LendItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/LendItemReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/LendReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/TransFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/UserAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/UserBind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/UserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/UserIntegral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/pojo/entity/UserLoginRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/BorrowInfoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/BorrowerAttachService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/BorrowerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/DictService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/IntegralGradeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/LendItemReturnService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/LendItemService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/LendReturnService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/LendService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/TransFlowService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/UserAccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/UserBindService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/UserInfoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/UserIntegralService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/UserLoginRecordService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/BorrowInfoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/BorrowerAttachServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/BorrowerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/DictServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/IntegralGradeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/LendItemReturnServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/LendItemServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/LendReturnServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/LendServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/TransFlowServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/UserAccountServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/UserBindServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/UserInfoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/UserIntegralServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/classes/com/atguigu/srb/core/service/impl/UserLoginRecordServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-core/target/test-classes/com/atguigu/srb/core/Test01.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +302,7 @@
       <workItem from="1631773120192" duration="29000" />
       <workItem from="1631874049190" duration="2115000" />
       <workItem from="1632290449384" duration="7230000" />
-      <workItem from="1632312900012" duration="1385000" />
+      <workItem from="1632312900012" duration="1712000" />
     </task>
     <task id="LOCAL-00001" summary="mybatispuls插件">
       <created>1631671676896</created>
@@ -223,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632314751901</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="忽略文件">
+      <created>1632315489392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632315489392</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +342,8 @@
     <MESSAGE value="mybatispuls插件" />
     <MESSAGE value="添加version乐观锁" />
     <MESSAGE value="创建基本工程，创建统一异常和返回结果等" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建基本工程，创建统一异常和返回结果等" />
+    <MESSAGE value="忽略文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="忽略文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="612" y="97" key="#Project_Structure" timestamp="1632308191013">
@@ -252,10 +362,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="840" y="379" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1631613811302" />
-    <state x="549" y="40" key="CommitChangelistDialog2" timestamp="1632314840358">
+    <state x="549" y="40" key="CommitChangelistDialog2" timestamp="1632315489012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1632314840358" />
+    <state x="549" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1632315489012" />
     <state x="705" y="180" key="FileChooserDialogImpl" timestamp="1631773145188">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -320,10 +430,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="573" y="79" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631672333145" />
-    <state x="611" y="190" key="Vcs.Push.Dialog.v2" timestamp="1632314854283">
+    <state x="611" y="190" key="Vcs.Push.Dialog.v2" timestamp="1632315496583">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="611" y="190" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1632314854283" />
+    <state x="611" y="190" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1632315496583" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1632312899684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
