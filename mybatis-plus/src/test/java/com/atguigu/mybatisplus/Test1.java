@@ -3,8 +3,6 @@ package com.atguigu.mybatisplus;
 
 import com.atguigu.mybatisplus.entity.User;
 import com.atguigu.mybatisplus.mapper.UserMapper;
-import io.swagger.models.auth.In;
-import org.apache.tomcat.util.buf.UEncoder;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
