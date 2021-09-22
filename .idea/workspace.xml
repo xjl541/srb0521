@@ -1,37 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f8714ee-7a72-44b0-be32-7bcaa3b5dc00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/base-service/src/main/java/com/atguigu/srb/base/config/Swagger2Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guigu-common/src/main/java/com/atguigu/srb/common/exception/UnifiedExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guigu-common/src/main/java/com/atguigu/srb/common/result/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guigu-common/src/main/java/com/atguigu/srb/common/result/ResponseEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus/src/test/java/com/atguigu/mybatisplus/TestWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-core/service-core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-core/src/main/java/com/atguigu/srb/core/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-core/src/main/java/com/atguigu/srb/core/config/MyMetaObjectHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-core/src/main/java/com/atguigu/srb/core/config/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-core/src/main/java/com/atguigu/srb/core/controller/admin/AdminIntegralGradeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-core/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-core/src/test/java/com/atguigu/srb/core/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="1f8714ee-7a72-44b0-be32-7bcaa3b5dc00" name="Default Changelist" comment="创建基本工程，创建统一异常和返回结果等">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus/src/main/java/com/atguigu/mybatisplus/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus/src/test/java/com/atguigu/mybatisplus/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus/src/test/java/com/atguigu/mybatisplus/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/config/MybatisPlusConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/entity/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/mapper/ProductMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/com/atguigu/mybatisplus/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/classes/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/test-classes/com/atguigu/mybatisplus/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/test-classes/com/atguigu/mybatisplus/TestPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus/target/test-classes/com/atguigu/mybatisplus/TestVersion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +200,7 @@
       <workItem from="1631773120192" duration="29000" />
       <workItem from="1631874049190" duration="2115000" />
       <workItem from="1632290449384" duration="7230000" />
-      <workItem from="1632312900012" duration="626000" />
+      <workItem from="1632312900012" duration="1385000" />
     </task>
     <task id="LOCAL-00001" summary="mybatispuls插件">
       <created>1631671676896</created>
@@ -245,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631689500471</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="创建基本工程，创建统一异常和返回结果等">
+      <created>1632314751901</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632314751901</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,7 +232,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mybatispuls插件" />
     <MESSAGE value="添加version乐观锁" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加version乐观锁" />
+    <MESSAGE value="创建基本工程，创建统一异常和返回结果等" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建基本工程，创建统一异常和返回结果等" />
   </component>
   <component name="WindowStateProjectService">
     <state x="612" y="97" key="#Project_Structure" timestamp="1632308191013">
@@ -273,10 +252,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="840" y="379" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1631613811302" />
-    <state x="549" y="40" key="CommitChangelistDialog2" timestamp="1631689500121">
+    <state x="549" y="40" key="CommitChangelistDialog2" timestamp="1632314840358">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1631689500121" />
+    <state x="549" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1632314840358" />
     <state x="705" y="180" key="FileChooserDialogImpl" timestamp="1631773145188">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -341,10 +320,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="573" y="79" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631672333145" />
-    <state x="611" y="190" key="Vcs.Push.Dialog.v2" timestamp="1631692440283">
+    <state x="611" y="190" key="Vcs.Push.Dialog.v2" timestamp="1632314854283">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="611" y="190" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1631692440283" />
+    <state x="611" y="190" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1632314854283" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1632312899684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
