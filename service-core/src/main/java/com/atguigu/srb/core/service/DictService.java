@@ -1,7 +1,11 @@
 package com.atguigu.srb.core.service;
 
+import com.atguigu.srb.core.pojo.dto.ExcelDictDTO;
 import com.atguigu.srb.core.pojo.entity.Dict;
 import com.baomidou.mybatisplus.extension.service.IService;
+import org.springframework.web.multipart.MultipartFile;
+
+import java.util.List;
 
 /**
  * <p>
@@ -13,4 +17,9 @@ import com.baomidou.mybatisplus.extension.service.IService;
  */
 public interface DictService extends IService<Dict> {
 
+    void importData(MultipartFile multipartFile);
+
+    List<ExcelDictDTO> listDictData();
+
+    List<Dict> ListByParentId(Long id);
 }

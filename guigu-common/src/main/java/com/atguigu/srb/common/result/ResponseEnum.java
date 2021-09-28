@@ -21,6 +21,7 @@ public enum ResponseEnum {
 
     //-2xx 参数校验
     BORROW_AMOUNT_NULL_ERROR(-201, "借款额度不能为空"),
+    BORROW_AMOUNT_0_ERROR(-212, "借款额度不能为0"),
     MOBILE_NULL_ERROR(-202, "手机号码不能为空"),
     MOBILE_ERROR(-203, "手机号码不正确"),
     PASSWORD_NULL_ERROR(204, "密码不能为空"),

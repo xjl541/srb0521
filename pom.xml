@@ -13,6 +13,8 @@
         <module>base-service</module>
         <module>mybatis-plus</module>
         <module>service-core</module>
+        <module>alibaba-easyexcel</module>
+        <module>service-sms</module>
     </modules>
 
     <parent>
